@@ -1,6 +1,6 @@
 # MMC Global Information Specialist - Analysis Package
 
-This workspace contains a full Python analysis workflow for `IMS_Test_Data 1.xlsx` and a stakeholder-ready 5-slide PowerPoint.
+This workspace contains a full Python analysis workflow for `IMS_Test_Data 1.xlsx` and a TEST stakeholder-ready 5-slide PowerPoint.
 
 ## Files
 

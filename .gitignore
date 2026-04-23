@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Local editor/system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large/generated profiling artifacts
+analysis_output/
+
+# Temporary charts can be regenerated
+presentation_output/charts/
